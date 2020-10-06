@@ -1,0 +1,42 @@
+.EditName {
+    font-size: 20px;
+}
+
+#ModalAddDoc {
+    max-width: 1050px;
+}
+#moveModalBody {
+    min-width: 1050px;
+}
+
+#groupItemsBody{
+    max-width: 1050px;
+}
+
+#createGroupBody {
+    max-width: 1050px;
+}
+
+.borderAddItem {
+    border-radius: 5px;
+    border: 1px solid grey;
+    box-shadow: 0 0 10px #49a0ff;
+    margin-top: 10px ;
+}
+
+.groupItems {
+    min-width: 990px;
+}
+
+.dropdown-item:hover {
+    background-color:#007bff;
+    color: white;
+}
+
+.custom-border td, th{
+    border: 1px solid #c3c6ca;
+}
+
+.sort {
+    cursor: pointer;
+}
